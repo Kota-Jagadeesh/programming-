@@ -19,6 +19,6 @@ def add_2_numbers(a,b):
         print("the floor division of 2 numbers =",floor_division)
     else :
         print("invlid input")
-print (add_2_numbers(a,b))                    
+(add_2_numbers(a,b))                    
 
     
