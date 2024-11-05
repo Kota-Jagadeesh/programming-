@@ -19,9 +19,3 @@ for i in range(2, n):
     print(next_term, end=" ") 
 
     a, b = b, next_term 
-
-OUTPUT: 
-
-number of terms:7 
-
-0 1 1 2 3 5 8 
