@@ -1,5 +1,5 @@
 import random
-# defined a function called guess the number
+# defined a function called guess the number 
 def guess_the_number():
     print("Welcome to the Guess the Number Game!")
     
